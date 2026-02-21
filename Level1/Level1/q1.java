@@ -1,4 +1,4 @@
-public class HarryAgeCalculator {
+public class q1 {
     public static void main(String[] args) {
         // Assume the Current Year is 2024
         int birthYear = 2000;
